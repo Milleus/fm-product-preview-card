@@ -145,15 +145,6 @@ select {
 .text-green-400 {
   color: var(--clr-green-400);
 }
-.text-green-800 {
-  color: var(--clr-green-800);
-}
-.text-neutral-100 {
-  color: var(--clr-neutral-100);
-}
-.text-neutral-400 {
-  color: var(--clr-neutral-400);
-}
 .text-neutral-800 {
   color: var(--clr-neutral-800);
 }
